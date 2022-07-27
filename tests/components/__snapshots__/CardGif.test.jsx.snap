@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CardGif /> Debe hacer match con el snatshop 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dragon ball"
+      src="https://media3.giphy.com/media/VXJWhaO7afRe/giphygif&ct=g"
+      width="100"
+    />
+    <p>
+      Dragon ball
+    </p>
+  </div>
+</div>
+`;
